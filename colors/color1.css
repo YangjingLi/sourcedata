@@ -1,0 +1,306 @@
+/*单色*/
+.misty_green{
+    color: #D1EDE1;
+    color: #7BC5AE;
+    color: #028C6A;
+    color: #003E19;
+}
+.subdued_blue{
+    color: #D1DDDB;
+    color: #85B8CB;
+    color: #1D6A96;
+    color: #283B42;
+}
+.western_wear{
+    color: #D5D2C1;
+    color: #BD8E62;
+    color: #A46843;
+    color: #370D00;
+}
+.emerald_garden{
+    color: #9BCFB8;
+    color: #7FB174;
+    color: #689C97;
+    color: #072A24;
+}
+.electric_purples{
+    color: #D3B7D8;
+    color: #A13E97;
+    color: #632A7E;
+    color: #280E3B;
+}
+/**/
+.turkish_coffee{
+    color: #B78338;
+    color: #915C4C;
+    color: #40686A;
+    color: #2F1812;
+}
+.color_whirl{
+    color: #E3A6A1;
+    color: #BC5F6A;
+    color: #19B3B1;
+    color: #034B61;
+}
+.grunge_graffiti{
+    color: #BDBDBF;
+    color: #5580A0;
+    color: #CC8A4D;
+    color: #32435F;
+}
+.celestial_green{
+    color: #B2A59F;
+    color: #023459;
+    color: #1E646E;
+    color: #002C2F;
+}
+.cork_crowd{
+    color: #B98D72;
+    color: #AE4951;
+    color: #57233A;
+    color: #161B1F;
+}
+.snakeskin{
+    color: #EAD6BD;
+    color: #A88661;
+    color: #504E63;
+    color: #00142F;
+}
+.blooming_flower{
+    color: #CCD3D9;
+    color: #FED5D9;
+    color: #7E212C;
+    color: #321E17;
+}
+.angular_kaleidoscope{
+    color: #E4DACE;
+    color: #E5BB4B;
+    color: #498EAF;
+    color: #631F16;
+}
+.paspberry_tart{
+    color: #F2DD66;
+    color: #9A1B27;
+    color: #747BA9;
+    color: #3B3857;
+}
+.vitamin_sea{
+    color: #0359AE;
+    color: #14B09B;
+    color: #EBE5D9;
+    color: #CC8A56;
+}
+.icy_stone{
+    color: #A6C2CE;
+    color: #9C8F96;
+    color: #EBC57C;
+    color: #6B799E;
+}
+.sea_green{
+    color: #97BAA4;
+    color: #499360;
+    color: #295651;
+    color: #232941;
+}
+.peace_tranquility{
+    color: #DCC1B0;
+    color: #869DAB;
+    color: #847072;
+    color: #3D313F;
+}
+.soft_watercolors{
+    color: #E5EDF8;
+    color: #E29E93;
+    color: #EDBC7A;
+    color: #0384BD;
+}
+.northern_lights{
+    color: #91D4C2;
+    color: #45BB89;
+    color: #3D82AB;
+    color: #003853;
+}
+.pool_daze{
+    color: #1E94A0;
+    color: #004E6D;
+    color: #FEC0C1;
+    color: #DC2543;
+}
+.floral_fun{
+    color: #DB5A9A;
+    color: #E5A46E;
+    color: #125669;
+    color: #0A5B54;
+}
+.bare_birch{
+    color: #F2F4EF;
+    color: #C2E3F4;
+    color: #EFB730;
+    color: #030305;
+}
+.vintage_vibes{
+    color: #82BBB5;
+    color: #CA884B;
+    color: #D1825B;
+    color: #CCA142;
+}
+.central_breeze{
+    color: #AFB3BC;
+    color: #E5BA22;
+    color: #757430;
+    color: #D0B987;
+}
+/*明亮*/
+.luminous_lines{
+    color: #8AD5EB;
+    color: #8A54A2;
+    color: #5954A4;
+    color: #04254E;
+}
+.tropic_popsicles{
+    color: #FEC748;
+    color: #D92139;
+    color: #AEC33A;
+    color: #253F58;
+}
+.sunsets{
+    color: #FEC804;
+    color: #F26322;
+    color: #7A2D59;
+    color: #181B46;
+}
+.luminous_bubbles{
+    color: #ECEC84;
+    color: #FFB69B;
+    color: #A299CA;
+    color: #7CCAAE;
+}
+.striking_macaw{
+    color: #FFDD00;
+    color: #F15A22;
+    color: #5FAD46;
+    color: #478FCD;
+}
+/*暖色*/
+.japanese_garden{
+    color: #FEC6AD;
+    color: #A2B75C;
+    color: #FE6323;
+    color: #1F1F29;
+}
+.citrus_punch{
+    color: #FFB53C;
+    color: #EEB3A3;
+    color: #F3553C;
+    color: #642A02;
+}
+.mango_dream{
+    color: #FFE083;
+    color: #E99A24;
+    color: #2B3C1A;
+    color: #171516;
+}
+.terracotta_marble{
+    color: #D8B484;
+    color: #B16B2F;
+    color: #C76331;
+    color: #9A2513;
+}
+.sushi_platter{
+    color: #F69864;
+    color: #E95761;
+    color: #290F02;
+    color: #1E4620;
+}
+/*补色*/
+.fitness_sportswear{
+    color: #DFE4DE;
+    color: #126F80;
+    color: #F95151;
+    color: #525E76;
+}
+.textile_dyes{
+    color: #E8C7B6;
+    color: #EB9772;
+    color: #6A6579;
+    color: #32435F;
+}
+.rooftop_views{
+    color: #CED7D4;
+    color: #FCBE71;
+    color: #E55C25;
+    color: #608796;
+}
+.pure_produce{
+    color: #9E5165;
+    color: #A51E22;
+    color: #204B24;
+    color: #0B2637;
+}
+.mediterranean_marine{
+    color: #FEB75D;
+    color: #55C9EA;
+    color: #013B63;
+    color: #000E2B;
+}
+.juicy_fruits{
+    color: #EE3239;
+    color: #5EAA5F;
+    color: #FECE00;
+    color: #9D6AB9;
+}
+.rusted_gates{
+    color: #D2E0E9;
+    color: #4579A0;
+    color: #002130;
+    color: #A35D22;
+}
+.snow_sunshine{
+    color: #FFEFA1;
+    color: #FFB21A;
+    color: #876363;
+    color: #414B6F;
+}
+.decorative_florals{
+    color: #E6B6C2;
+    color: #D4587A;
+    color: #DC364C;
+    color: #778633;
+}
+.buzzing_blooms{
+    color: #FED700;
+    color: #1E9AD0;
+    color: #7E2E0B;
+    color: #9A6231;
+}
+/*---------------------------------------*/
+.lemon_water{
+    color: #F70025;
+    color: #F7EFE2;
+    color: #F25C00;
+    color: #F9A603;
+}
+.hot_wind{
+    color: #4897D8;
+    color: #FFDB5C;
+    color: #FA6E59;
+    color: #F8A055;
+}
+.sweet{
+    color: #4C3F54;
+    color: #D13525;
+    color: #F2C057;
+    color: #486824;
+}
+.morden_city{
+    color: #F9BA32;
+    color: #426E86;
+    color: #F8F1E5;
+    color: #2F3131;
+}
+.candy_sweet{
+    color: #F47D4A;
+    color: #E1315B;
+    color: #FFEC5C;
+    color: #008DCB;
+}
